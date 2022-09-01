@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Buffet2\Buffet2\obj\Debug\net6.0\Buffet2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Buffet2\Buffet2\obj\Debug\net6.0\Buffet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Buffet2\Buffet2\obj\Debug\net6.0\Buffet2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Buffet2\Buffet2\obj\Debug\net6.0\Buffet2.AssemblyInfo.cs
+C:\Users\User\source\repos\Buffet2\Buffet2\obj\Debug\net6.0\Buffet2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Buffet2\Buffet2\bin\Debug\net6.0\Buffet2.exe
+C:\Users\User\source\repos\Buffet2\Buffet2\bin\Debug\net6.0\Buffet2.deps.json
+C:\Users\User\source\repos\Buffet2\Buffet2\bin\Debug\net6.0\Buffet2.runtimeconfig.json
+C:\Users\User\source\repos\Buffet2\Buffet2\bin\Debug\net6.0\Buffet2.dll
+C:\Users\User\source\repos\Buffet2\Buffet2\bin\Debug\net6.0\Buffet2.pdb
+C:\Users\User\source\repos\Buffet2\Buffet2\obj\Debug\net6.0\Buffet2.dll
+C:\Users\User\source\repos\Buffet2\Buffet2\obj\Debug\net6.0\refint\Buffet2.dll
+C:\Users\User\source\repos\Buffet2\Buffet2\obj\Debug\net6.0\Buffet2.pdb
+C:\Users\User\source\repos\Buffet2\Buffet2\obj\Debug\net6.0\Buffet2.genruntimeconfig.cache
+C:\Users\User\source\repos\Buffet2\Buffet2\obj\Debug\net6.0\ref\Buffet2.dll
